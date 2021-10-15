@@ -1,3 +1,9 @@
+How do upgrade from stock Huawei Honor 5x KIW-L24 from stock Android 5 to Android 6 using the firmware updater version 
+
+This is the simplest method I have found using the in-house Huawei Updater Tool and older HiSuite v10 desktop software.
+
+These instructions are specifically for Window 10.
+
 these are the steps I used:
 
 * on the huawei honor 5x KIW-L24, open files app on and create a folder called dload in the root
